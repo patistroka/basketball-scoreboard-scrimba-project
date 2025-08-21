@@ -23,9 +23,13 @@ The goal was to recreate a simple basketball scoreboard based on a design from F
 - The importance of small layout adjustments (margins, paddings) to match a design precisely  
 
 ---
+⚠️ **Note:** This project was created for practice only.  
+It does not include **responsiveness** (mobile or tablet optimization).  
+
+---
 
 ## 🚀 Live Demo  
-🔗 [See it live on Netlify](https://your-netlify-link.netlify.app)  
+🔗 [See it live on Netlify](https://scoreboard-scrimba-project-pstroka.netlify.app/)  
 
 ---
 
